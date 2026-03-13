@@ -4,17 +4,7 @@
 
 I'm Adrian Wodnicki,  
 Student of Computer Science at Poznan University of Technology,  
-Member of [AKAI](https://akai.org.pl),  
-Epic gamer.
-
-## 🔭 I’m currently working on
-
-[![Guide.me](https://github-readme-stats.vercel.app/api/pin/?username=akai-org&repo=planer-podrozy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/akai-org/planer-podrozy)  
-
-## 🌱 I’m currently learning
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
+Member of [AKAI](https://akai.org.pl).
 
 ## 📫 How to reach me
 
